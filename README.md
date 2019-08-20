@@ -10,13 +10,13 @@ GitHub repositories
 > yarn
 ```
 
-2. Run Server
+2. Run app
 
 ```bash
 > yarn start
 ```
 
-You can browse the apis at <http://localhost:3000>
+Open <http://localhost:3000> to view it in the browser.
 
 ![App Screenshot 01](screenshot01.png)
 
